@@ -12,5 +12,6 @@
 </head>
 <body>
     <h1>通过maven创建的工程</h1>
+    <h2>666</h2>
 </body>
 </html>
